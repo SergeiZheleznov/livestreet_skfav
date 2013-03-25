@@ -1,0 +1,1 @@
+<li {if $sMenuItemSelect=='skfav'}class="active"{/if}><a href="{router page='favourite_top'}">{$aLang.plugin.skfav.menu_item}</a> <i></i></li>

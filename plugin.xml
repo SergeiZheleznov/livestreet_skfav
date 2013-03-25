@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <name>
+        <lang name="default">Skfav. Коллективное избранное</lang>
+    </name>
+    <author>
+        <lang name="default">skif</lang>
+    </author>
+    <homepage>http://livestreet.ru/blog/addons/14865.html</homepage>
+    <version>1.0.1</version>
+    <requires>
+        <livestreet>1.0.2</livestreet>
+        <plugins>
+        </plugins>
+    </requires>
+    <description>
+        <lang name="default">Лента топиков, отсортированная по колличеству добавлений в избранное</lang>
+    </description>
+</plugin>
